@@ -9,7 +9,6 @@
 ## Установка
 
 1. **Клонируйте репозиторий**:
-   ```bash
 git clone https://github.com/Casablanca91-duo/match-tracker
 2. **Установите зависимости :
 - npm install
